@@ -87,8 +87,8 @@ Training was performed using:
 
 Final model configuration:
 - Model: YOLOv8l
-- Epochs: 100
-- Batch Size: 4
+- Epochs: 85
+- Batch Size: 8
 - Image Size: 832
 
 ---
